@@ -1,0 +1,25 @@
+
+
+div.frame {
+    max-width: 300px;
+    max-height: 400px;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 300px;
+}
+
+.slim {
+    border-radius: 1rem;
+    border: 1px solid #ddd;
+    background-color: #bfeef6;
+    width: 300px;
+    height: 300px;
+    font-family: "Comic Sans MS";
+    color: white;
+}
+.slim:hover{
+    color: white;
+    background-color: #2388ad;
+
+}
+
